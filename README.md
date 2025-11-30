@@ -1,17 +1,8 @@
 # Hi, I'm Sujeeth 👋
 
-I’m a Senior Product Manager at Amazon based in Sydney, Australia.  
-In my day-to-day work, I solve problems that impact **Amazon’s customers, sellers, and core business teams**.  
-My focus is on building products that:
+I’m a Senior Product Manager at Amazon based in Sydney, Australia.  In my day-to-day work, I solve problems that impact Amazon’s customers, sellers, and core business teams. My focus is on building products that enhance the customer and seller experience, improve business efficiency and revenue outcomes, and reduce operational cost-to-serve at scale.
 
-- Enhance customer and seller experience  
-- Improve business efficiency and revenue outcomes  
-- Reduce operational cost-to-serve at scale  
-
-Outside work, I build **practical, data-driven and AI-powered tools**.  
-I use a *vibe-coding* approach, rapidly turning ideas into working apps using LLM-assisted development, which gives me hands-on exposure to productizing Python, data workflows, and AI interventions.  
-
-I treat these projects as real product builds: clear scope, end-to-end architecture, iterative shipping, and strong focus on usability.
+Outside work, I build practical, data-driven and AI-powered tools.  I use a vibe-coding approach, rapidly turning ideas into working apps using LLM-assisted development, which gives me hands-on exposure to productizing Python, data workflows, and AI interventions. I treat these projects as real product builds: clear scope, end-to-end architecture, iterative shipping, and strong focus on usability.
 
 ---
 
@@ -33,28 +24,33 @@ I treat these projects as real product builds: clear scope, end-to-end architect
 
 ### 🧭 My Work & Interests
 
-- 🎯 **Role**: Senior Product Manager @ Amazon  
+- **Role**: Senior Product Manager @ Amazon  
   Focused on solving customer, seller, and business problems across emerging stores, improving experience, driving efficiency, and reducing cost-to-serve.
 
-- 🌏 **Location**: Sydney, Australia  
+- **Location**: Sydney, Australia  
 
-- 🧠 **Interests**: AI agents, RAG systems, data-driven product design, system thinking, and building compact tech-driven tools that solve real user pain points.
+- **Interests**: AI agents, RAG systems, data-driven product design, system thinking, and building compact tech-driven tools that solve real user pain points.
 
-- 🔧 **Hands-on exploration**:  
+- **Hands-on exploration**:  
   I use side projects to deepen exposure to practical AI, lightweight architectures, vibe coding, and rapid prototyping. Each build strengthens my technical intuition without requiring heavy engineering overhead.
 
 ---
 
 ### 🛠️ Tech I’m exploring through my projects
 
-- **Python** for stitching together fast prototypes, data workflows, and lightweight automation  
+- **Python** for stitching together fast prototypes, data workflows, and lightweight automation
+  
 - **Flask & simple web architectures** to convert prototypes into shareable interfaces  
-- **SQLite & SQL** to design compact data layers and analytics features  
+
+- **SQLite & SQL** to design compact data layers and analytics features
+
 - **LLM-assisted development workflows** (vibe-coding) for rapid idea → prototype execution  
-- **AI fundamentals** including RAG setups, evaluation frameworks, and agentic decision flows  
+
+- **AI fundamentals** including RAG setups, evaluation frameworks, and agentic decision flows
+
 - **System design basics** required to scale small tools into more structured solutions  
 
-My goal is to become a PM who **thinks and can build** with enough depth to design better products, evaluate trade-offs, and collaborate effectively with technical teams.
+My goal is to become a PM who thinks and can build with enough depth to design better products, evaluate trade-offs, and collaborate effectively with technical teams.
 
 ---
 
@@ -78,7 +74,7 @@ My goal is to become a PM who **thinks and can build** with enough depth to desi
 - **Document everything**  
   Every repo captures the evolution of the idea, making it easy to revisit, extend, or apply the same learning to future tools.
 
-My projects are intentionally small, focused, and end-to-end, allowing me to explore the intersection of **AI, UX, data, and product strategy** in a hands-on way.
+My projects are intentionally small, focused, and end-to-end, allowing me to explore the intersection of AI, UX, data, and product strategy in a hands-on way.
 
 ---
 
